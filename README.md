@@ -1,6 +1,4 @@
 # Predicting-Customer-Churn-by-OSEMN-Pipeline
-# Modeling-Customer-Churn-by-OSEMN-Pipeline
-# Predicting-Customer-Purchase-Revenue
 ## Table of Content
   - [Project Overview](#projectoverview)
   - [Data Description](#datadescription)
