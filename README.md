@@ -30,6 +30,10 @@ This project is mainly divided into five steps based on the data science pipelin
 
 The dataset contains more than 10000 customers demographic and bank account information consited of 10000 rows. For each customer, it contains CustomerId, gender, age, estimated salary, tenure, balance, credit rate, and churn or not, etc. 
 
+
+<a id='technicaloverview'></a>
+## Technical Overview
+
 The main technical skills included in this project are: 
 
 * Dealing wiht Missing Data
