@@ -23,7 +23,7 @@ This project is mainly divided into five steps based on the data science pipelin
 
 4. `Applying Ligistic Regression Model` in this part, encoding the categorical variables were implemented first; then by using Tree based selection method, the top 5 features in the order of importance were selected to be fitted in the logistic regression model. Last, the model was evaluated by accuracy. 
 
-5. 'Interpreting the Data' in this part, based on all the above analysis, the insights were provided. 
+5. `Interpreting the Data` in this part, based on all the above analysis, the insights were provided. 
 
 <a id='datadescription'></a>
 ## Data Description
